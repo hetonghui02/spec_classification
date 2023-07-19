@@ -4,7 +4,8 @@
 
 ### 一.使用标注好的数据构造数据库和类目数据集（setup.construction）
 1. 对于图像和商品标题结合的数据，使用GEMM生成式多模态表征模型进行标题和图像的嵌入向量embedding值的提取和分析。
-    1. 视觉encoder采用vit-large-patch14结构，生成text_embedding![](assets/16897535979080.jpg)
+    1. 视觉encoder采用vit-large-patch14结构，生成text_embedding![16897535979080](https://github.com/hetonghui02/spec_classification/assets/36235543/d20c8626-5498-4918-8e6f-bb54a11cc092)
+
 
     2. 文本encoder采用bert-base结构，生成image_embedding![](assets/16897536186855.jpg)
 
