@@ -1,0 +1,564 @@
+商品 新款正品香奈包包女士小香儿真皮斜挎单肩百搭潮流链条金球小方包1 的相似度排名：
+文本相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.938686728477478
+ - 类别 Chanel_CF 黑金牛  _handbag: 0.6218739748001099
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.586269736289978
+图像相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.9796296954154968
+ - 类别 Chanel_22C小香_handbag: 0.8451091647148132
+ - 类别 Chanel_小金球方胖子_handbag: 0.8228431940078735
+总体相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.9591582119464874
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.7005832195281982
+ - 类别 Chanel_CF 黑金牛  _handbag: 0.6929092407226562
+商品 新款正品香奈包包女士小香儿真皮斜挎单肩百搭潮流链条金球小方包1 归类到类别 Chanel_金球盒子包_handbag，相似度为 0.9591582119464874
+商品 新款正品香奈包包女士小香儿真皮斜挎单肩百搭潮流链条金球小方包2 的相似度排名：
+文本相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.9624674320220947
+ - 类别 Chanel_CF 黑金牛  _handbag: 0.6218739748001099
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.586269736289978
+图像相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.8516160249710083
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.7452561855316162
+ - 类别 Chanel_月光宝盒_手包: 0.742611825466156
+总体相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.9070417284965515
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.6517126262187958
+ - 类别 Chanel_CF 黑金牛  _handbag: 0.6387139558792114
+商品 新款正品香奈包包女士小香儿真皮斜挎单肩百搭潮流链条金球小方包2 归类到类别 Chanel_金球盒子包_handbag，相似度为 0.9070417284965515
+商品 新款正品香奈包包女士小香儿真皮斜挎单肩百搭潮流链条金球小方包3 的相似度排名：
+文本相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.9748036861419678
+ - 类别 Chanel_CF 黑金牛  _handbag: 0.6218739748001099
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.586269736289978
+图像相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.8298078775405884
+ - 类别 Chanel_22C小香_handbag: 0.8101347088813782
+ - 类别 Chanel_23P Kelly 鱼子酱_handbag: 0.8033336400985718
+总体相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.9023057818412781
+ - 类别 Chanel_CF 黑金牛  _handbag: 0.692678838968277
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.6812874674797058
+商品 新款正品香奈包包女士小香儿真皮斜挎单肩百搭潮流链条金球小方包3 归类到类别 Chanel_金球盒子包_handbag，相似度为 0.9023057818412781
+商品 爱马仕适用高级质感小众轻奢H扣康康包包2023新款白色单肩斜挎豆1 的相似度排名：
+文本相似度:
+ - 类别 Prada_milano 草编包_handbag: 0.5592854619026184
+ - 类别 Chanel_23P duma 黑色_backpack: 0.5495498776435852
+ - 类别 Adidas_三叶草阿迪达斯联名款拖鞋_sandals: 0.5355688333511353
+图像相似度:
+ - 类别 Hermes_kelly mini 黑色_handbag: 0.7453519105911255
+ - 类别 Dior_mini 戴妃 黑色_handbag: 0.745250940322876
+ - 类别 Dior_蒙田30 Montaigne 中号_handbag: 0.7443409562110901
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.6141907274723053
+ - 类别 Hermes_拖鞋_shoes: 0.605709969997406
+ - 类别 LV_Diane_handbag: 0.5956625789403915
+商品 爱马仕适用高级质感小众轻奢H扣康康包包2023新款白色单肩斜挎豆1 创建新类别 Hermes_康康包_handbag
+商品 爱马仕适用高级质感小众轻奢H扣康康包包2023新款白色单肩斜挎豆2 的相似度排名：
+文本相似度:
+ - 类别 Hermes_康康包_handbag: 1.0
+ - 类别 Prada_milano 草编包_handbag: 0.5592854619026184
+ - 类别 Chanel_23P duma 黑色_backpack: 0.5495498776435852
+图像相似度:
+ - 类别 Hermes_康康包_handbag: 0.8312993049621582
+ - 类别 Dior_蒙田30 Montaigne 中号_handbag: 0.7302611470222473
+ - 类别 LV_Diane_handbag: 0.7264315485954285
+总体相似度:
+ - 类别 Hermes_康康包_handbag: 0.9156496524810791
+ - 类别 LV_Diane_handbag: 0.6019436568021774
+ - 类别 Chanel_23P duma 黑色_backpack: 0.5849094092845917
+商品 爱马仕适用高级质感小众轻奢H扣康康包包2023新款白色单肩斜挎豆2 归类到类别 Hermes_康康包_handbag，相似度为 0.9156496524810791
+商品 小香风包包女2023新款大容量垃圾袋菱格珍珠链条包真皮单肩托特包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_T字带爱心水钻夹脚度假风凉鞋_sandals: 0.725342869758606
+ - 类别 LANVIN_flash-x_sport shoes: 0.6602455377578735
+ - 类别 Chanel_双C魔术贴经典款凉鞋_sandals: 0.6384997367858887
+图像相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.6896477341651917
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.6869937777519226
+ - 类别 Chanel_19bag菱格山羊皮_handbag: 0.6720299124717712
+总体相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.641160786151886
+ - 类别 Chanel_23P duma 黑色_backpack: 0.6334715485572815
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.6210857927799225
+商品 小香风包包女2023新款大容量垃圾袋菱格珍珠链条包真皮单肩托特包 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 法国正品 chanel香奈儿23p新款黑色荔枝duma青蛙小号双肩背包1 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23C银角大王_sport shoes: 0.710619330406189
+ - 类别 Chanel_手柄小废包 _handbag: 0.6239849328994751
+ - 类别 Chanel_双C魔术贴经典款凉鞋_sandals: 0.5875347852706909
+图像相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.7934479117393494
+ - 类别 Chanel_小金球方胖子_handbag: 0.7777561545372009
+ - 类别 Chanel_金球盒子包_handbag: 0.7607399225234985
+总体相似度:
+ - 类别 Chanel_手柄小废包 _handbag: 0.6817650198936462
+ - 类别 Chanel_23C银角大王_sport shoes: 0.6447093486785889
+ - 类别 Chanel_19bag菱格山羊皮_handbag: 0.6199055314064026
+商品 法国正品 chanel香奈儿23p新款黑色荔枝duma青蛙小号双肩背包1 创建新类别 Chanel_23P duma 黑色_backpack
+商品 法国正品 chanel香奈儿23p新款黑色荔枝duma青蛙小号双肩背包2 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.9969504475593567
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7072224617004395
+ - 类别 Chanel_手柄小废包 _handbag: 0.6195136904716492
+图像相似度:
+ - 类别 Chanel_方胖子 金球_handbag: 0.8518484234809875
+ - 类别 Chanel_22C小香_handbag: 0.8364943861961365
+ - 类别 Chanel_经典流浪_handbag: 0.8296025991439819
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8893035650253296
+ - 类别 Chanel_手柄小废包 _handbag: 0.6993835270404816
+ - 类别 Chanel_23C银角大王_sport shoes: 0.6627816259860992
+商品 法国正品 chanel香奈儿23p新款黑色荔枝duma青蛙小号双肩背包2 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.8893035650253296
+商品 法国正品 chanel香奈儿23p新款黑色荔枝duma青蛙小号双肩背包3 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.9979912638664246
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7061470746994019
+ - 类别 Chanel_手柄小废包 _handbag: 0.6176967024803162
+图像相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.9105324745178223
+ - 类别 Chanel_小金球方胖子_handbag: 0.8821593523025513
+ - 类别 Chanel_22C小香_handbag: 0.8576658368110657
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.9542618691921234
+ - 类别 Chanel_手柄小废包 _handbag: 0.7136954069137573
+ - 类别 Chanel_23C银角大王_sport shoes: 0.6729282438755035
+商品 法国正品 chanel香奈儿23p新款黑色荔枝duma青蛙小号双肩背包3 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.9542618691921234
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.7881968021392822
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7743838429450989
+ - 类别 Chanel_手柄小废包 _handbag: 0.6437426805496216
+图像相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8833988308906555
+ - 类别 Chanel_小金球方胖子_handbag: 0.8768023252487183
+ - 类别 Chanel_22C小香_handbag: 0.8720960021018982
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8357978165149689
+ - 类别 Chanel_手柄小废包 _handbag: 0.7085000574588776
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7028005421161652
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.8357978165149689
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双1 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.7877440452575684
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7748850584030151
+ - 类别 Chanel_手柄小废包 _handbag: 0.6459487080574036
+图像相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8833988308906555
+ - 类别 Chanel_小金球方胖子_handbag: 0.8768023252487183
+ - 类别 Chanel_22C小香_handbag: 0.8720960021018982
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8355714380741119
+ - 类别 Chanel_手柄小废包 _handbag: 0.7096030712127686
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7030511498451233
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双1 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.8355714380741119
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双2 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.7905591130256653
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7737337946891785
+ - 类别 Chanel_手柄小废包 _handbag: 0.6468825340270996
+图像相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8833988308906555
+ - 类别 Chanel_小金球方胖子_handbag: 0.8768023252487183
+ - 类别 Chanel_22C小香_handbag: 0.8720960021018982
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8369789719581604
+ - 类别 Chanel_手柄小废包 _handbag: 0.7100699841976166
+ - 类别 Chanel_23C银角大王_sport shoes: 0.702475517988205
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双2 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.8369789719581604
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双3 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.785643458366394
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7709445357322693
+ - 类别 Chanel_手柄小废包 _handbag: 0.6412564516067505
+图像相似度:
+ - 类别 Chanel_Duma 小青蛙 黑_backpack: 0.8915069699287415
+ - 类别 Chanel_方胖子 金球_handbag: 0.8555788993835449
+ - 类别 Chanel_22C小香_handbag: 0.8545252084732056
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.819607138633728
+ - 类别 Chanel_手柄小废包 _handbag: 0.7399221062660217
+ - 类别 Chanel_23C银角大王_sport shoes: 0.7140846252441406
+商品 Chanel香奈儿23P女包Duma复古淡金扣荔枝纹牛皮小青蛙书包背包双3 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.819607138633728
+商品 最高版本chane1香奶奶金球盒子包 羊皮小金球斜挎包 单肩包黑色经典推荐 520送礼 一比一原厂皮 小香经典菱格化妆包 口红包 ins小红书爆款 海关专柜无压力版本 礼盒包装 原单 迷你包 轻便 的相似度排名：
+文本相似度:
+ - 类别 Chanel_晚宴包_handbag: 0.6431894898414612
+ - 类别 Chanel_22K cf mini亮片闪片包_handbag: 0.6372078657150269
+ - 类别 Chanel_金球盒子包_handbag: 0.5832890868186951
+图像相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.759489119052887
+ - 类别 Chanel_月光宝盒_手包: 0.7468224167823792
+ - 类别 Chanel_手柄小废包 _handbag: 0.733100175857544
+总体相似度:
+ - 类别 Chanel_金球盒子包_handbag: 0.671389102935791
+ - 类别 Chanel_晚宴包_handbag: 0.6403962969779968
+ - 类别 Chanel_22K cf mini亮片闪片包_handbag: 0.6150051951408386
+商品 最高版本chane1香奶奶金球盒子包 羊皮小金球斜挎包 单肩包黑色经典推荐 520送礼 一比一原厂皮 小香经典菱格化妆包 口红包 ins小红书爆款 海关专柜无压力版本 礼盒包装 原单 迷你包 轻便 创建新类别 Chanel_金球盒子包_handbag
+商品  纯手工定制19cm 24厘米黄金尺寸女神网红空姐包康康包 constance五金镀24k金银扣金扣ep皮质斜挎单肩包bkc金刚色黑金 大象灰 金棕 奶昔白 稀有皮定制 的相似度排名：
+文本相似度:
+ - 类别 Dior_四格灰色羊皮金扣戴妃包Lady 大象灰_handbag: 0.6053499579429626
+ - 类别 Hermes_kelly 25 乌木色_handbag: 0.5724283456802368
+ - 类别 Hermes_水桶包_handbag: 0.5509228110313416
+图像相似度:
+ - 类别 LV_carryall M46197_handbag: 0.6598907709121704
+ - 类别 Dior_蒙田30 Montaigne 中号_handbag: 0.6458870768547058
+ - 类别 Hermes_Picotin 菜篮子 大象灰_handbag: 0.6403931975364685
+总体相似度:
+ - 类别 Hermes_水桶包_handbag: 0.5798342227935791
+ - 类别 LV_Diane_handbag: 0.5551430284976959
+ - 类别 Hermes_kelly 25 乌木色_handbag: 0.5462949872016907
+商品  纯手工定制19cm 24厘米黄金尺寸女神网红空姐包康康包 constance五金镀24k金银扣金扣ep皮质斜挎单肩包bkc金刚色黑金 大象灰 金棕 奶昔白 稀有皮定制 创建新类别 Hermes_康康包_handbag
+商品 纯原ad samba vegan og 德训鞋桑巴三叶草休闲板鞋男女同款 小白鞋 的相似度排名：
+文本相似度:
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.9236895442008972
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.7902684807777405
+ - 类别 Balenciaga_xpander弹簧鞋_sport shoes: 0.45862531661987305
+图像相似度:
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.9552914500236511
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.7338255047798157
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.641056478023529
+总体相似度:
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.9394904971122742
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.7620469927787781
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.5052288174629211
+商品 纯原ad samba vegan og 德训鞋桑巴三叶草休闲板鞋男女同款 小白鞋 归类到类别 Adidas_德训鞋 黑色白标_sport shoes，相似度为 0.9394904971122742
+商品 只做原鞋 自家工厂 小板鞋 阿迪板鞋 德训鞋 三叶草板鞋 的相似度排名：
+文本相似度:
+ - 类别 Onitsuka Tiger_mexico 66白蓝红_sport shoes: 0.7361992001533508
+ - 类别 Balenciaga_HD LACE-UP TRAINERS 米色_sandals: 0.7284247279167175
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.5530215501785278
+图像相似度:
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.7704412937164307
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.5964467525482178
+ - 类别 Adidas_全掌爆米花 白蓝 _sport shoes: 0.5935570001602173
+总体相似度:
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.6617314219474792
+ - 类别 Onitsuka Tiger_mexico 66白蓝红_sport shoes: 0.6317839324474335
+ - 类别 Balenciaga_HD LACE-UP TRAINERS 米色_sandals: 0.6102657169103622
+商品 只做原鞋 自家工厂 小板鞋 阿迪板鞋 德训鞋 三叶草板鞋 创建新类别 Adidas_德训鞋 黑色白标_sport shoes
+商品 纯原ad samba vegan og 德训鞋桑巴三叶草休闲板鞋男女同款 小白鞋 的相似度排名：
+文本相似度:
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.7902684807777405
+ - 类别 Balenciaga_xpander弹簧鞋_sport shoes: 0.45862531661987305
+ - 类别 Balenciaga_camera mini 黑_handbag: 0.4476867914199829
+图像相似度:
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.7304799556732178
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.627758800983429
+ - 类别 Adidas_德训鞋 黑色白标_sport shoes: 0.6171090006828308
+总体相似度:
+ - 类别 Adidas_德训鞋 白色黑标_sport shoes: 0.7603742182254791
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.4985799789428711
+ - 类别 Nike_倒钩6.0_sport shoes: 0.4821898192167282
+商品 纯原ad samba vegan og 德训鞋桑巴三叶草休闲板鞋男女同款 小白鞋 创建新类别 Adidas_德训鞋 黑色白标_sport shoes
+商品 ad originals adifom q 低帮潮流洞洞鞋休闲鞋运动鞋袜子鞋潮鞋泡沫外骨设计男鞋女鞋 的相似度排名：
+文本相似度:
+ - 类别 Adidas_adiFOM Q 骨白_sport shoes: 1.0
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.5438037514686584
+ - 类别 Byredo_无人区玫瑰_perfume: 0.5220597982406616
+图像相似度:
+ - 类别 Adidas_adiFOM Q 骨白_sport shoes: 1.0000001192092896
+ - 类别 Crocs_Salehe Bembury 白色_sandals: 0.8257373571395874
+ - 类别 Balenciaga_老爹鞋_shoes: 0.7513645887374878
+总体相似度:
+ - 类别 Adidas_adiFOM Q 骨白_sport shoes: 1.0000000596046448
+ - 类别 Crocs_Salehe Bembury 白色_sandals: 0.6092718988656998
+ - 类别 Balenciaga_老爹鞋_shoes: 0.5963031649589539
+商品 ad originals adifom q 低帮潮流洞洞鞋休闲鞋运动鞋袜子鞋潮鞋泡沫外骨设计男鞋女鞋 归类到类别 Adidas_adiFOM Q 骨白_sport shoes，相似度为 1.0000000596046448
+商品 ad originals nmd s1深灰透气厚底运动休闲跑鞋 gz9233 gz7900 的相似度排名：
+文本相似度:
+ - 类别 Adidas_AD Originals NMD S1_sport shoes: 1.0
+ - 类别 New Balance_993系列 灰色_sport shoes: 0.5897189974784851
+ - 类别 YEEZY_灰橙满天星_sport shoes: 0.5560082197189331
+图像相似度:
+ - 类别 Adidas_AD Originals NMD S1_sport shoes: 1.0000001192092896
+ - 类别 Adidas_全掌爆米花 白蓝 _sport shoes: 0.7145878672599792
+ - 类别 Balenciaga_Phantom幻影系列_sport shoes: 0.699052095413208
+总体相似度:
+ - 类别 Adidas_AD Originals NMD S1_sport shoes: 1.0000000596046448
+ - 类别 Adidas_全掌爆米花 白蓝 _sport shoes: 0.594456285238266
+ - 类别 YEEZY_350v2 黑天使_sport shoes: 0.5692781507968903
+商品 ad originals nmd s1深灰透气厚底运动休闲跑鞋 gz9233 gz7900 归类到类别 Adidas_AD Originals NMD S1_sport shoes，相似度为 1.0000000596046448
+商品 jjjjound x nb m992j2 联名总统复古慢跑鞋 灰棕 绿色 jjjj992联名 的相似度排名：
+文本相似度:
+ - 类别 New Balance_JJJJound x NB M992J2 灰棕 绿色_sport shoes: 1.0
+ - 类别 New Balance_993系列 灰色_sport shoes: 0.5188893675804138
+ - 类别 New Balance_MR530KA_sport shoes: 0.5087472200393677
+图像相似度:
+ - 类别 New Balance_JJJJound x NB M992J2 灰棕 绿色_sport shoes: 1.0
+ - 类别 New Balance_元祖灰2002RA_sport shoes: 0.7796656489372253
+ - 类别 ADER ERROR_ADER x CAMPER_sport shoes: 0.7653412818908691
+总体相似度:
+ - 类别 New Balance_JJJJound x NB M992J2 灰棕 绿色_sport shoes: 1.0
+ - 类别 New Balance_MR530KA_sport shoes: 0.6287073493003845
+ - 类别 New Balance_993系列 灰色_sport shoes: 0.623254120349884
+商品 jjjjound x nb m992j2 联名总统复古慢跑鞋 灰棕 绿色 jjjj992联名 归类到类别 New Balance_JJJJound x NB M992J2 灰棕 绿色_sport shoes，相似度为 1.0
+商品 行走中的艺术品巴黎世家 balenciag 3xl 网布 系带 做旧 低帮老爹鞋 的相似度排名：
+文本相似度:
+ - 类别 Balenciaga_3XL 银灰_sport shoes: 1.0
+ - 类别 Balenciaga_老爹鞋_shoes: 0.7035362124443054
+ - 类别 Balenciaga_Adidas联名双面刺绣_tshirt: 0.6879603862762451
+图像相似度:
+ - 类别 Balenciaga_3XL 银灰_sport shoes: 1.0000001192092896
+ - 类别 Balenciaga_xpander弹簧鞋_sport shoes: 0.7782131433486938
+ - 类别 Balenciaga_3XL 浅米色_sport shoes: 0.7741932272911072
+总体相似度:
+ - 类别 Balenciaga_3XL 银灰_sport shoes: 1.0000000596046448
+ - 类别 Balenciaga_老爹鞋_shoes: 0.6777834594249725
+ - 类别 Balenciaga_3XL 浅米色_sport shoes: 0.6551095843315125
+商品 行走中的艺术品巴黎世家 balenciag 3xl 网布 系带 做旧 低帮老爹鞋 归类到类别 Balenciaga_3XL 银灰_sport shoes，相似度为 1.0000000596046448
+商品 正品级别萨洛蒙xa pro系列xa pro系列 沙场灰 合金灰salomon3d adv探索者系列潮流越野机能户外休闲运动跑步鞋老爹鞋增高鞋 的相似度排名：
+文本相似度:
+ - 类别 SALOMON_XT6沙场灰_sport shoes: 0.9183161854743958
+ - 类别 SALOMON_XT-Quest ADV_sport shoes: 0.6530479788780212
+ - 类别 Nike_Sacai x NK VaporWaffle_sport shoes: 0.4214365482330322
+图像相似度:
+ - 类别 SALOMON_XT6沙场灰_sport shoes: 0.9428588151931763
+ - 类别 Balenciaga_老爹鞋_shoes: 0.8306000232696533
+ - 类别 Balenciaga_track3 多色_sport shoes: 0.826688826084137
+总体相似度:
+ - 类别 SALOMON_XT6沙场灰_sport shoes: 0.930587500333786
+ - 类别 SALOMON_XT-Quest ADV_sport shoes: 0.7007187604904175
+ - 类别 Balenciaga_track3 多色_sport shoes: 0.622791662812233
+商品 正品级别萨洛蒙xa pro系列xa pro系列 沙场灰 合金灰salomon3d adv探索者系列潮流越野机能户外休闲运动跑步鞋老爹鞋增高鞋 归类到类别 SALOMON_XT6沙场灰_sport shoes，相似度为 0.930587500333786
+商品 秃哥出品 xa pro 3d户外低帮跑步 萨洛蒙   xt6   xt6 xt系列 salomon 的相似度排名：
+文本相似度:
+ - 类别 SALOMON_XT6沙场灰_sport shoes: 0.8526812195777893
+ - 类别 SALOMON_XT-Quest ADV_sport shoes: 0.6979387998580933
+ - 类别 Balenciaga_track3 多色_sport shoes: 0.48281407356262207
+图像相似度:
+ - 类别 SALOMON_XT6沙场灰_sport shoes: 0.8974058032035828
+ - 类别 Balenciaga_track3 多色_sport shoes: 0.7793050408363342
+ - 类别 Balenciaga_老爹鞋_shoes: 0.7675800323486328
+总体相似度:
+ - 类别 SALOMON_XT6沙场灰_sport shoes: 0.875043511390686
+ - 类别 SALOMON_XT-Quest ADV_sport shoes: 0.7117356956005096
+ - 类别 Balenciaga_track3 多色_sport shoes: 0.6310595571994781
+商品 秃哥出品 xa pro 3d户外低帮跑步 萨洛蒙   xt6   xt6 xt系列 salomon 归类到类别 SALOMON_XT6沙场灰_sport shoes，相似度为 0.875043511390686
+商品 真皮二代kelly凯莉包mini包迷你手提包百搭时尚单肩斜挎包女士小包 的相似度排名：
+文本相似度:
+ - 类别 Hermes_kelly mini 黑色_handbag: 1.0
+ - 类别 Hermes_kelly2424mini金棕_handbag: 0.681796669960022
+ - 类别 Hermes_kelly dole picto 白色_handbag: 0.6490896344184875
+图像相似度:
+ - 类别 Hermes_kelly mini 黑色_handbag: 1.0000001192092896
+ - 类别 Hermes_lindy 26 黑_handbag: 0.7894484400749207
+ - 类别 Dior_蒙田30 Montaigne 中号_handbag: 0.7791456580162048
+总体相似度:
+ - 类别 Hermes_kelly mini 黑色_handbag: 1.0000000596046448
+ - 类别 Hermes_kelly 25 乌木色_handbag: 0.6767065525054932
+ - 类别 Hermes_kelly2424mini金棕_handbag: 0.6505041122436523
+商品 真皮二代kelly凯莉包mini包迷你手提包百搭时尚单肩斜挎包女士小包 归类到类别 Hermes_kelly mini 黑色_handbag，相似度为 1.0000000596046448
+商品 正品级小香专卖zp皮原厂油蜡小牛皮香奶奶家小香22 bag手袋垃圾袋购物袋单肩包斜挎包链条包女包包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.7085006237030029
+ - 类别 Chanel_双肩背流浪包_handbag: 0.6836971044540405
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.6318601369857788
+图像相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.8215262293815613
+ - 类别 Chanel_垃圾袋 黑色黑标_backpack: 0.810167670249939
+ - 类别 Chanel_双肩背流浪包_handbag: 0.7792853713035583
+总体相似度:
+ - 类别 Chanel_双肩背流浪包_handbag: 0.7314912378787994
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.7036215364933014
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.6943846940994263
+商品 正品级小香专卖zp皮原厂油蜡小牛皮香奶奶家小香22 bag手袋垃圾袋购物袋单肩包斜挎包链条包女包包 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 正品级小香专卖zp原厂油蜡牛皮香奶奶家22s小香22bag 双肩背垃圾袋双肩包手袋链条包女包包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.8070942163467407
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.7316226959228516
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.7071065902709961
+图像相似度:
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.835015058517456
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.8347799181938171
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.8303959965705872
+总体相似度:
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.8210546374320984
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.7687512934207916
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.7564084827899933
+商品 正品级小香专卖zp原厂油蜡牛皮香奶奶家22s小香22bag 双肩背垃圾袋双肩包手袋链条包女包包 归类到类别 Chanel_垃圾袋 黑色金标_backpack，相似度为 0.8210546374320984
+商品 唯一正确皮料正品级代购版本zp原厂油蜡牛皮香奶奶c家22s小香22bag 双肩背垃圾袋双肩包手袋链条包女包包情侣男包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_双肩背流浪包_handbag: 0.7752811908721924
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.7351794838905334
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.7002552151679993
+图像相似度:
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.835015058517456
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.8347799181938171
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.8303959965705872
+总体相似度:
+ - 类别 Chanel_双肩背流浪包_handbag: 0.7858928143978119
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.7676351368427277
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.74881911277771
+商品 唯一正确皮料正品级代购版本zp原厂油蜡牛皮香奶奶c家22s小香22bag 双肩背垃圾袋双肩包手袋链条包女包包情侣男包 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 鉴定师帮你挑22bag 垃圾袋 原厂皮 全真料代购版 镇点渠道 购物袋 tote 22s单肩包 链条包 女包 托特包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.793556272983551
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.730766773223877
+ - 类别 Chanel_垃圾袋mini 粉色_backpack: 0.7190833687782288
+图像相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.8141941428184509
+ - 类别 Hermes_Garden Party 黑白_handbag: 0.812533438205719
+ - 类别 Hermes_lindy mini 大象灰_handbag: 0.8087483644485474
+总体相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.803875207901001
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.7343502938747406
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.7121570408344269
+商品 鉴定师帮你挑22bag 垃圾袋 原厂皮 全真料代购版 镇点渠道 购物袋 tote 22s单肩包 链条包 女包 托特包 归类到类别 Chanel_垃圾袋mini 黑色金标_backpack，相似度为 0.803875207901001
+商品 天花板品质顶级montebello油蜡牛皮完美复制小香家22bag垃圾袋珍珠毛呢牛仔垃圾袋白字金字灰色粉色白色绿色全黑色蓝色紫色白金白银玫瑰红古巴绿玫瑰金白色黑线大号小号中号c家香包垃圾袋 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.5066972970962524
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.5024302005767822
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.5000556707382202
+图像相似度:
+ - 类别 Chanel_垃圾袋 黑色黑标_backpack: 0.8091331720352173
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.8032495379447937
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.7699738144874573
+总体相似度:
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.6362020075321198
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6322050094604492
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.6202586591243744
+商品 天花板品质顶级montebello油蜡牛皮完美复制小香家22bag垃圾袋珍珠毛呢牛仔垃圾袋白字金字灰色粉色白色绿色全黑色蓝色紫色白金白银玫瑰红古巴绿玫瑰金白色黑线大号小号中号c家香包垃圾袋 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 代购级别22s黑色金白字母22bag小号购物袋托特包 垃圾袋23c 23s包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.7372146248817444
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.6984267234802246
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.6468691229820251
+图像相似度:
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.7931683659553528
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.7876043915748596
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.7692654132843018
+总体相似度:
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.7338460683822632
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.7329643666744232
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.720018744468689
+商品 代购级别22s黑色金白字母22bag小号购物袋托特包 垃圾袋23c 23s包 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 颜值巅峰真香定律bag手袋垃圾袋春夏新款手袋黑色金扣黑金女包真正的纯a一级原厂牛皮皮质细腻有光泽既柔软又耐磨两者兼具22垃圾袋购物袋手袋托特包女包单肩包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋 白色金标_handbag: 0.5976384282112122
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.5746666789054871
+ - 类别 Chanel_垃圾袋 黑色黑标_backpack: 0.5147648453712463
+图像相似度:
+ - 类别 Chanel_垃圾袋 白色金标_handbag: 0.8326912522315979
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.8235591053962708
+ - 类别 Chanel_22C小香_handbag: 0.8156917691230774
+总体相似度:
+ - 类别 Chanel_垃圾袋 白色金标_handbag: 0.715164840221405
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.6616253852844238
+ - 类别 Chanel_Gabrielle 流浪 双肩_backpack: 0.6427916884422302
+商品 颜值巅峰真香定律bag手袋垃圾袋春夏新款手袋黑色金扣黑金女包真正的纯a一级原厂牛皮皮质细腻有光泽既柔软又耐磨两者兼具22垃圾袋购物袋手袋托特包女包单肩包 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 唯一正确皮料正品级代购版本zp皮原厂胎牛皮香奶奶c家小香22 bag垃圾袋包购物袋单肩包腋下包现货链条包女包包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_双肩背流浪包_handbag: 0.8580795526504517
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.7439132928848267
+ - 类别 Chanel_23P Kelly 鱼子酱_handbag: 0.7074775099754333
+图像相似度:
+ - 类别 Chanel_垃圾袋 黑色黑标_backpack: 0.8242322206497192
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.7368351817131042
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.7318805456161499
+总体相似度:
+ - 类别 Chanel_双肩背流浪包_handbag: 0.7778145372867584
+ - 类别 Chanel_盒子化妆包白色_handbag: 0.6634221374988556
+ - 类别 Chanel_22k 双肩包 漆皮_handbag: 0.6548715233802795
+商品 唯一正确皮料正品级代购版本zp皮原厂胎牛皮香奶奶c家小香22 bag垃圾袋包购物袋单肩包腋下包现货链条包女包包 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 顶级原厂皮品质香22bag手袋今年最火爆的垃圾袋购物袋tote 五金全铜复古金枪扣三个尺寸颜色齐全皮料原厂油蜡小牛皮小牛皮 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6716983914375305
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.6569913625717163
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.639417827129364
+图像相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.7491612434387207
+ - 类别 Chanel_23P duma 黑色_backpack: 0.7047040462493896
+ - 类别 Hermes_Picotin 菜篮子 黑色_handbag: 0.7037823796272278
+总体相似度:
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.6942895352840424
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6695964932441711
+ - 类别 Chanel_垃圾袋 黑色银标_backpack: 0.6561990082263947
+商品 顶级原厂皮品质香22bag手袋今年最火爆的垃圾袋购物袋tote 五金全铜复古金枪扣三个尺寸颜色齐全皮料原厂油蜡小牛皮小牛皮 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 意大利工艺 2022 新款购物袋 22bag 垃圾袋 单肩 手提 小香链条包 手袋 亮面小牛皮 原厂皮 手提 女士包包全套包装 顺丰包邮 的相似度排名：
+文本相似度:
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6505802869796753
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.6334087252616882
+ - 类别 Chanel_垃圾袋 黑色金标_backpack: 0.5975406169891357
+图像相似度:
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6541367769241333
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.6487960815429688
+ - 类别 Hermes_Picotin 菜篮子 锡器灰 _handbag: 0.6416827440261841
+总体相似度:
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6523585319519043
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.616633802652359
+ - 类别 Chanel_垃圾袋mini 黑色金标_backpack: 0.6153843998908997
+商品 意大利工艺 2022 新款购物袋 22bag 垃圾袋 单肩 手提 小香链条包 手袋 亮面小牛皮 原厂皮 手提 女士包包全套包装 顺丰包邮 创建新类别 Chanel_垃圾袋 黑色金标_backpack
+商品 正品级小香专卖2023年春夏新款zp原厂荔枝纹牛皮皮料纯铜五金香奶奶家小香23p duma双肩包背包学生包链条包女包包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_22k 双肩包 漆皮_handbag: 0.6526795029640198
+ - 类别 Chanel_22C小香_handbag: 0.6502292156219482
+ - 类别 Chanel_双肩背流浪包_handbag: 0.6144590973854065
+图像相似度:
+ - 类别 Chanel_22C小香_handbag: 0.8903650045394897
+ - 类别 Chanel_23p爱心调节扣 _handbag: 0.8836395144462585
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.8831973075866699
+总体相似度:
+ - 类别 Chanel_22C小香_handbag: 0.770297110080719
+ - 类别 Chanel_22k 双肩包 漆皮_handbag: 0.7469690144062042
+ - 类别 Chanel_双肩背流浪包_handbag: 0.7444930374622345
+商品 正品级小香专卖2023年春夏新款zp原厂荔枝纹牛皮皮料纯铜五金香奶奶家小香23p duma双肩包背包学生包链条包女包包 创建新类别 Chanel_23P duma 黑色_backpack
+商品 正品级代购版本2023年春夏新款zp原厂荔枝纹牛皮皮料纯铜五金香奶奶家小香23p duma双肩包背包学生包链条包女包包 的相似度排名：
+文本相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8134294748306274
+ - 类别 Chanel_22k 双肩包 漆皮_handbag: 0.5925607085227966
+ - 类别 Chanel_沙滩凉鞋_sandals: 0.5915625691413879
+图像相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8942480683326721
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.8713598251342773
+ - 类别 Chanel_金球 方盒子 _handbag: 0.8406262993812561
+总体相似度:
+ - 类别 Chanel_23P duma 黑色_backpack: 0.8538387715816498
+ - 类别 Chanel_22k 双肩包 漆皮_handbag: 0.7130817770957947
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.7023041844367981
+商品 正品级代购版本2023年春夏新款zp原厂荔枝纹牛皮皮料纯铜五金香奶奶家小香23p duma双肩包背包学生包链条包女包包 归类到类别 Chanel_23P duma 黑色_backpack，相似度为 0.8538387715816498
+商品 意大利工艺现货 23p新款 duma双肩包背包书包全套包装 顺丰包邮 的相似度排名：
+文本相似度:
+ - 类别 Chanel_Duma 小青蛙 黑_backpack: 0.6300510168075562
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.5959365963935852
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.5666441321372986
+图像相似度:
+ - 类别 Chanel_22k 双肩包 漆皮_handbag: 0.673978865146637
+ - 类别 Chanel_Duma 22c 黑_backpack: 0.6606121063232422
+ - 类别 LV_双子星 小号_handbag: 0.658534049987793
+总体相似度:
+ - 类别 Chanel_Duma 小青蛙 黑_backpack: 0.6074205040931702
+ - 类别 Chanel_垃圾袋mini 珊瑚粉_handbag: 0.6052236557006836
+ - 类别 Chanel_丹宁牛仔 渐变_handbag: 0.5969621241092682
+商品 意大利工艺现货 23p新款 duma双肩包背包书包全套包装 顺丰包邮 创建新类别 Chanel_23P duma 黑色_backpack
+商品 只做原鞋 自家工厂aj1 aj1dunk dunk sb  dunksb 冰雪奇缘 情人节 影子灰 鸽子粉 黑白熊猫 白绿 酒红 复古蓝 芝加哥 北卡蓝 骨白 白紫 绿 白棕 海军 的相似度排名：
+文本相似度:
+ - 类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes: 0.9165413975715637
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.7577165961265564
+ - 类别 Nike_NK SB Dunk Low J-Pack_sport shoes: 0.7056877613067627
+图像相似度:
+ - 类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes: 0.9061737060546875
+ - 类别 Nike_AJ 312_sport shoes: 0.808046281337738
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.7644749283790588
+总体相似度:
+ - 类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes: 0.9113575518131256
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.7610957622528076
+ - 类别 Nike_AJ 312_sport shoes: 0.6927614510059357
+商品 只做原鞋 自家工厂aj1 aj1dunk dunk sb  dunksb 冰雪奇缘 情人节 影子灰 鸽子粉 黑白熊猫 白绿 酒红 复古蓝 芝加哥 北卡蓝 骨白 白紫 绿 白棕 海军 归类到类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes，相似度为 0.9113575518131256
+商品 无原鞋不开发原材料组装 nik sb dunk low pro qs 情人节限定 冰雪奇缘 蓝色情人节 滑板鞋板鞋  七夕必备 的相似度排名：
+文本相似度:
+ - 类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes: 0.8494306206703186
+ - 类别 Nike_SB Dunk Low Pro 棕色红钩_sport shoes: 0.8089072704315186
+ - 类别 Nike_Dunk Low 万圣节 木乃伊_sport shoes: 0.768890917301178
+图像相似度:
+ - 类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes: 0.8303965926170349
+ - 类别 GUCCI_脏脏鞋 绿色_sport shoes: 0.7067588567733765
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.68702232837677
+总体相似度:
+ - 类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes: 0.8399136066436768
+ - 类别 Nike_Dunk SB Low 黑白_sport shoes: 0.7130121886730194
+ - 类别 Nike_Dunk Low 万圣节 木乃伊_sport shoes: 0.7088272869586945
+商品 无原鞋不开发原材料组装 nik sb dunk low pro qs 情人节限定 冰雪奇缘 蓝色情人节 滑板鞋板鞋  七夕必备 归类到类别 Nike_SB Dunk Low Pro 冰雪奇缘_sport shoes，相似度为 0.8399136066436768
+
+
+
+模型在验证集上准确率: 92.5%
